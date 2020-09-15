@@ -178,7 +178,7 @@ export const PersonaFormulario = () => {
                 className="btn btn-info"
                 onClick={() => editarItem(i)}
               >
-                Guardar Modificación
+                Guardar edición
               </button>}
           </div>
         );
